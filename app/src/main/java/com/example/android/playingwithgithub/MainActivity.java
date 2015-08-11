@@ -6,7 +6,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 /**
- * which branch am I on?
+ * which branch am I on? Version2
  */
 
 public class MainActivity extends AppCompatActivity {
